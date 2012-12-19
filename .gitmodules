@@ -1,0 +1,18 @@
+[submodule "elixir-mode"]
+	path = elixir-mode
+	url = https://github.com/secondplanet/elixir-mode.git
+[submodule "magit"]
+	path = magit
+	url = https://github.com/magit/magit.git
+[submodule "Emacs-Groovy-Mode"]
+	path = Emacs-Groovy-Mode
+	url = https://github.com/russel/Emacs-Groovy-Mode.git
+[submodule "ruby-mode"]
+	path = ruby-mode
+	url = https://github.com/qoobaa/ruby-mode
+[submodule "php-mode"]
+	path = php-mode
+	url = https://github.com/ejmr/php-mode.git
+[submodule "emacs-color-theme-solarized"]
+	path = emacs-color-theme-solarized
+	url = https://github.com/sellout/emacs-color-theme-solarized.git
