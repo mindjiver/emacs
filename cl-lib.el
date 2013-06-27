@@ -318,5 +318,25 @@
       (message "This `cl-labels' requires `lexical-binding' to be non-nil"))
     `(labels ,@args)))
 
+;;;; ChangeLog:
+
+;; 2013-05-22  Stefan Monnier  <monnier@iro.umontreal.ca>
+;; 
+;; 	* cl-lib.el (cl-labels): Demote error to message and improve it.
+;; 
+;; 2012-11-30  Stefan Monnier  <monnier@iro.umontreal.ca>
+;; 
+;; 	* cl-lib.el: Try and patch things up in case we're hiding the real cl-lib.
+;; 
+;; 2012-11-22  Stefan Monnier  <monnier@iro.umontreal.ca>
+;; 
+;; 	Add cl-letf and cl-labels.
+;; 
+;; 2012-11-16  Stefan Monnier  <monnier@iro.umontreal.ca>
+;; 
+;; 	* packages/cl-lib: New package.
+;; 
+
+
 (provide 'cl-lib)
 ;;; cl-lib.el ends here
