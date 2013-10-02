@@ -16,3 +16,6 @@
 [submodule "emacs-color-theme-solarized"]
 	path = emacs-color-theme-solarized
 	url = https://github.com/sellout/emacs-color-theme-solarized.git
+[submodule "rpm-spec-mode"]
+	path = rpm-spec-mode
+	url = https://github.com/bjorlykke/rpm-spec-mode.git
