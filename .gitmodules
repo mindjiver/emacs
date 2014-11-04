@@ -4,9 +4,6 @@
 [submodule "magit"]
 	path = magit
 	url = https://github.com/magit/magit.git
-[submodule "Emacs-Groovy-Mode"]
-	path = Emacs-Groovy-Mode
-	url = https://github.com/russel/Emacs-Groovy-Mode.git
 [submodule "ruby-mode"]
 	path = ruby-mode
 	url = https://github.com/qoobaa/ruby-mode
@@ -31,3 +28,9 @@
 [submodule "ruby-electric"]
 	path = ruby-electric
 	url = https://github.com/qoobaa/ruby-electric.git
+[submodule "enhanced-ruby-mode"]
+        path = enhanced-ruby-mode
+        url = https://github.com/zenspider/enhanced-ruby-mode.git
+[submodule "markdown-mode"]
+        path = markdown-mode
+        url = https://github.com/defunkt/markdown-mode.git
