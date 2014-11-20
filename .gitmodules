@@ -34,3 +34,6 @@
 [submodule "markdown-mode"]
         path = markdown-mode
         url = https://github.com/defunkt/markdown-mode.git
+[submodule "puppet-syntax-emacs"]
+	path = puppet-syntax-emacs
+	url = https://github.com/puppetlabs/puppet-syntax-emacs
