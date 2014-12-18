@@ -34,3 +34,6 @@
 [submodule "markdown-mode"]
         path = markdown-mode
         url = https://github.com/defunkt/markdown-mode.git
+[submodule "logstash"]
+	path = logstash
+	url = https://github.com/Wilfred/logstash-conf.el.git
