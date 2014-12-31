@@ -19,3 +19,6 @@
 [submodule "org-mode"]
 	path = org-mode
 	url = git://orgmode.org/org-mode.git
+[submodule "elixir"]
+	path = elixir
+	url = https://github.com/elixir-lang/emacs-elixir
