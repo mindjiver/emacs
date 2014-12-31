@@ -1,12 +1,6 @@
-[submodule "elixir-mode"]
-	path = elixir-mode
-	url = https://github.com/secondplanet/elixir-mode.git
 [submodule "magit"]
 	path = magit
 	url = https://github.com/magit/magit.git
-[submodule "Emacs-Groovy-Mode"]
-	path = Emacs-Groovy-Mode
-	url = https://github.com/russel/Emacs-Groovy-Mode.git
 [submodule "ruby-mode"]
 	path = ruby-mode
 	url = https://github.com/qoobaa/ruby-mode
@@ -22,3 +16,30 @@
 [submodule "elixir"]
 	path = elixir
 	url = https://github.com/elixir-lang/emacs-elixir
+[submodule "rpm-spec-mode"]
+	path = rpm-spec-mode
+	url = https://github.com/bjorlykke/rpm-spec-mode.git
+[submodule "rsense"]
+	path = rsense
+	url = https://github.com/m2ym/rsense.git
+[submodule "auto-complete"]
+	path = auto-complete
+	url = https://github.com/auto-complete/auto-complete.git
+[submodule "Highlight-Indentation-for-Emacs"]
+	path = Highlight-Indentation-for-Emacs
+	url = https://github.com/antonj/Highlight-Indentation-for-Emacs.git
+[submodule "ruby-electric"]
+	path = ruby-electric
+	url = https://github.com/qoobaa/ruby-electric.git
+[submodule "enhanced-ruby-mode"]
+        path = enhanced-ruby-mode
+        url = https://github.com/zenspider/enhanced-ruby-mode.git
+[submodule "markdown-mode"]
+        path = markdown-mode
+        url = https://github.com/defunkt/markdown-mode.git
+[submodule "puppet-syntax-emacs"]
+	path = puppet-syntax-emacs
+	url = https://github.com/puppetlabs/puppet-syntax-emacs
+[submodule "git-modes"]
+	path = git-modes
+	url = https://github.com/magit/git-modes.git
