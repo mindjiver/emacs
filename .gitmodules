@@ -7,9 +7,6 @@
 [submodule "php-mode"]
 	path = php-mode
 	url = https://github.com/ejmr/php-mode.git
-[submodule "emacs-color-theme-solarized"]
-	path = emacs-color-theme-solarized
-	url = https://github.com/sellout/emacs-color-theme-solarized.git
 [submodule "org-mode"]
 	path = org-mode
 	url = git://orgmode.org/org-mode.git
