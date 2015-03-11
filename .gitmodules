@@ -46,3 +46,6 @@
 [submodule "emacs-color-theme-solarized"]
 	path = emacs-color-theme-solarized
 	url = git@github.com:sellout/emacs-color-theme-solarized.git
+[submodule "flycheck"]
+	path = flycheck
+	url = git@github.com:flycheck/flycheck.git
