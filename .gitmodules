@@ -40,6 +40,3 @@
 [submodule "puppet-syntax-emacs"]
 	path = puppet-syntax-emacs
 	url = https://github.com/puppetlabs/puppet-syntax-emacs
-[submodule "git-modes"]
-	path = git-modes
-	url = https://github.com/magit/git-modes.git
